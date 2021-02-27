@@ -1,0 +1,66 @@
+.container3 {
+    border-radius: 0px;
+    width: 1440px;
+    height: 822px;
+    border: 1px solid gray;}
+.vcontainer3 {
+    width: 1100px;
+    height: 510px;
+    margin-left: 170px;
+    margin-right: 170px;
+    margin-bottom: 160px;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;}
+.vcontainer3 > img {
+    width: 542px;
+    height: 510px;
+z-index: 9999;}
+.textblock3 {
+    margin-top: 126px;
+    width: 456px;
+    height: 310px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;}
+.getprice3  {width: 220px;
+    height: 61px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #F46752;
+    border: 1px solid rgba(29, 37, 60, 0.2);
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #FFFFFF;}
+.getprice3 > img {
+    width: 25px;
+    height: 15px;
+    color: #FFFFFF;}   
+.hernya3 {
+    background: #FFFFFF;
+    box-shadow: 3px 4px 34px rgba(66, 71, 77, 0.11);
+    border-radius: 5px;
+    width: 326px;
+    height: 67px;
+    position: relative;
+    left: 668px;
+    top: -206px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+z-index: 999999;}
+.a3 {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 28px;
+    color: #1D253C;}

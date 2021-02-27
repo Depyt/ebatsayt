@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+@import "header.css";
+@import "container1.css";
+@import "container2.css";
+@import "container3.css";
+@import "container4.css";
+@import "container5.css";
+@import "container6.css";
+@import "container7.css";
+@import "container8.css";
+@import "container9.css";
+.body {display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: ;}
+.points {
+    position: relative;
+    top: -953px;
+    left: 656px;
+    z-index: 2;
+}
+.umbrela {
+    position: relative;
+    left: 300px;
+    top: -180px;
+}
+.dog {
+    position: absolute;
+    left: 1780px;
+    top: 3000px;
+    z-index: 1000000;
+}
+.sledi {
+    position: absolute;
+    left: 1610px;
+    top: 3338px;
+    z-index: 1000000;
+}

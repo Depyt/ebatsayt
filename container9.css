@@ -1,0 +1,54 @@
+.container9 {
+    position: relative;
+    top: -650px;
+    width: 1440px;
+    height: 380px;
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.container10 {
+    border: 1px solid gray;
+    position: relative;
+    top: -650px;
+    align-items: center;
+    width: 1440px;
+    height: 80px;
+    background: #F8F8F8;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.haltura {
+    margin-right: 200px;
+    margin-top: 70px;
+}
+.haltura1 {
+
+    margin-top: 1px;
+}
+.context10 {
+    margin-left: 170px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+color: #5A6482;
+}
+.getprice10 {
+    background-color: white;
+    height: 44px;
+    border: 1px solid rgba(29, 37, 60, 0.2);
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+margin-right: 170px;}
+

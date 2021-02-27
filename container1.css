@@ -1,0 +1,60 @@
+.container1 {width: 1440px;
+    height: 775px;
+    display: block;
+    border: 1px solid gray;}
+.textblock {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 485px;
+    height: 383px;
+    position: relative;
+    left: 106px;
+    top: 196px;}
+.hero {position: relative;
+    width: 984px;
+    height: 697px;
+    left: 456px;
+    top: -366px;}
+.orangeheaderwidth {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    text-transform: uppercase;
+    color: #F46752;}
+.bigquestion {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 68px;
+    text-transform: capitalize;
+    color: #1D253C;}
+.secure {font-family: Work Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 33px;
+    color: #5A6482;}
+.getprice1  {width: 220px;
+    height: 61px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #F46752;
+    border: 1px solid rgba(29, 37, 60, 0.2);
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #FFFFFF;}
+.getprice1 > img {
+    width: 25px;
+    height: 15px;
+    color: #FFFFFF;}

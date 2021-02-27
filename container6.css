@@ -1,0 +1,67 @@
+.container6 {
+    border-radius: 0px;
+    width: 1440px;
+    height: 822px;
+    border: 1px solid gray;
+    background: #F9F5F2;}
+.vcontainer6 {
+    width: 1100px;
+    height: 510px;
+    margin-left: 170px;
+    margin-right: 170px;
+    margin-bottom: 160px;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;}
+.vcontainer6 > img {
+    width: 542px;
+    height: 510px;}
+.textblock6 {
+    margin-top: 126px;
+    width: 456px;
+    height: 310px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.getprice3  {width: 220px;
+    height: 61px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #F46752;
+    border: 1px solid rgba(29, 37, 60, 0.2);
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #FFFFFF;}
+.getprice3 > img {
+    width: 25px;
+    height: 15px;
+    color: #FFFFFF;}   
+.hernya6 {
+    background: #FFFFFF;
+    box-shadow: 3px 4px 34px rgba(66, 71, 77, 0.11);
+    border-radius: 5px;
+    width: 307px;
+    height: 50px;
+    position: relative;
+    left: 361px;
+    top: -190px;
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+.a6 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 28px;
+    color: #1D253C;
+}

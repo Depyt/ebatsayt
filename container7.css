@@ -1,0 +1,178 @@
+.container7 {
+    border-radius: 0px;
+    width: 1440px;
+    height: 620px;
+    border: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.vcontainer7 {
+    width: 1100px;
+    height: 616px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.normquestion {
+    margin-left: 22px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #5A6482;
+}
+
+
+
+.bluecard7 {
+    width: 260px;
+    height: 323px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: rgba(169, 216, 255, 0.3);
+}
+.blueheader {
+    margin-left: 22px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 42px;
+    color: #7CAFDD;
+}
+.bluebutton {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    color: #7CAFDD;
+}
+.bluebutton7 {
+    margin-left: 22px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.bluebutton7 > img {
+    margin-left: 10px;
+}
+
+
+
+.yelcard7 {
+    width: 260px;
+    height: 323px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: rgba(255, 174, 104, 0.3);
+}
+.yelheader {
+    margin-left: 22px;
+    font-family: Work Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 33px;
+line-height: 42px;
+color: #E79751;
+}
+.yelbutton {
+    font-family: Work Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+color: #E79751;
+}
+.yelbutton7 {
+    margin-left: 22px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.yelbutton7 > img {
+    margin-left: 10px;
+}
+
+
+
+.redcard7 {
+    width: 260px;
+    height: 323px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: rgba(250, 82, 64, 0.3);
+}
+.redheader {
+    margin-left: 22px;
+    font-family: Work Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 34px;
+line-height: 42px;
+color: #FA5240;
+}
+.redbutton {
+    font-family: Work Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+color: #FA5240;
+}
+.redbutton7 {
+    margin-left: 22px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.redbutton7 > img {
+    margin-left: 10px;
+}
+
+
+
+.greencard7 {
+    width: 260px;
+    height: 323px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: rgba(18, 111, 133, 0.3);
+}
+.greenheader {
+    margin-left: 22px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 42px;  
+    color: #126F85;
+}
+.greenbutton {
+    font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+color: #126F85;
+}
+.greenbutton7 {
+    margin-left: 22px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.greenbutton7 > img {
+    margin-left: 10px;
+}
+
+
+
+

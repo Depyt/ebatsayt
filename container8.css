@@ -1,0 +1,48 @@
+.container8 {
+    width: 1440px;
+    height: 382px;
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #E5F3FE;
+}
+.vcontainer8 {
+    width: 670px;
+    height: 182px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.rainonme {
+    position: relative;
+    left: -350px;
+    top: -651px;
+}
+.viski {
+    position: relative;
+    left: 450px;
+    top: -205px;
+}
+.context8 {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 30px;
+    text-align: center;
+    color: #676562;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.header8 {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 52px;
+    text-align: center;
+    color: #1D253C;
+}

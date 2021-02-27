@@ -1,0 +1,93 @@
+.container2 {
+    background: #F9F5F2;
+    border-radius: 0px;
+    width: 1440px;
+    height: 645px;
+    border: 1px solid gray;
+    }
+.vcontainer2 {
+    width: 1100px;
+    height: 476px;
+    margin-left: 170px;
+    margin-right: 170px;
+    margin-bottom: 85px;
+    margin-top: 85px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; }
+.orangeheader {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #F46752;}
+.picture {
+    background-color: #FFFFFF;
+    width: 500px;
+    height: 436px;}
+.picture > img {
+    margin: 43px;}
+
+
+.hernya {
+    position: relative;
+    left: 177px;
+    top: -92px;}
+.pda {font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #5A6482;}
+.a2 {font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #F46752;}
+    
+.textblock2 {
+    margin-left: 144px;
+    width: 456px;
+    height: 310px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;}
+.smallquestion {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 52px;
+    color: #1D253C;}
+.context  {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 30px;
+    color: #5A6482;
+}
+.getprice2  {width: 220px;
+    height: 61px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #F46752;
+    border: 1px solid rgba(29, 37, 60, 0.2);
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #FFFFFF;}
+.getprice2 > img {
+    width: 25px;
+    height: 15px;
+    color: #FFFFFF;}   

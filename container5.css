@@ -1,0 +1,127 @@
+.container5 {
+    background: #363839;
+    border-radius: 0px;
+    width: 1440px;
+    height: 746px;
+    border: 1px solid gray;
+}
+.vcontainer5 {
+    width: 1100px;
+    height: 521px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+    margin-bottom: 105px;
+    margin-left: 170px;
+    margin-right: 170px;
+}
+.textblock5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 1100px;
+    height: 167px;
+}
+.context5  {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 30px;
+    color: #ACB4BF;
+}
+.smallquestion5 {
+    font-family: Work Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 44px;
+line-height: 52px;
+text-align: center;
+color: #FFFFFF;
+margin-bottom: 7px;
+margin-top: 15px;
+}
+.circle {
+    width: 740px;
+    top: -37px;
+    left: -20px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.numbers {
+    width: 760px;
+    top: -83px;
+    left: -25px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.a5 {
+    display: block;
+    margin-top: 80px;
+    position: relative;
+    left: 30px;
+   
+
+}
+.context51 {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #ACB4BF;
+}
+.minicards5 {
+    display: flex;
+    flex-direction: row;
+    width: 1100px;
+    justify-content: space-around;
+    margin-top: -60px;
+}
+.minicard5 {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    height: 120px;
+    justify-content: space-around;
+    
+}
+.nameofminicard {
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+.getprice5 {width: 220px;
+    height: 61px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #F46752;
+    border: 1px solid rgba(29, 37, 60, 0.2);
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 35px;}
+.getprice5 > img {
+    width: 25px;
+    height: 15px;
+    color: #FFFFFF;}   
